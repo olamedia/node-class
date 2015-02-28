@@ -1,5 +1,5 @@
 {
-  "name": "class",
+  "name": "ola-class",
   "version": "1.0.0",
   "description": "Yet another class-extend",
   "author": {
@@ -10,12 +10,12 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.githubusercontent.com/olamedia/node-class/master/LICENSE"
+      "url": "https://raw.githubusercontent.com/olamedia/ola-class/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/olamedia/node-class.git"
+    "url": "https://github.com/olamedia/ola-class.git"
   },
   "main": "class.js"
 }
