@@ -3,7 +3,7 @@ Yet another class-extend
 
 ## Basic usage
 ```
-var MyClass = Class.extend({
+var MyClass = Class.extend({ // will be shown in logs as [Function]
   init: function(){
     // constructor
   }
@@ -19,9 +19,9 @@ var MyClass2 = MyClass.extend({
 });
 ```
 
-## Advanced usage
+## Advanced usage: named custom constructor
 ```
-var MyClass = Class.fextend(function MyClass(){
+var MyClass = Class.fextend(function MyClass(){ // will be shown in logs as [Function: MyClass]
   // constructor
 }, {});
 ```
