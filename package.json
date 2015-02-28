@@ -7,5 +7,15 @@
     "email": "olamedia@gmail.com",
     "url": "https://github.com/olamedia"
   },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/olamedia/node-class/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olamedia/node-class.git"
+  },
   "main": "class.js"
 }
