@@ -1,0 +1,11 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "description": "Yet another class-extend",
+  "author": {
+    "name": "olamedia",
+    "email": "olamedia@gmail.com",
+    "url": "https://github.com/olamedia"
+  },
+  "main": "class.js"
+}
