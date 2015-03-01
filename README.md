@@ -1,6 +1,10 @@
 # node-class
 Yet another class-extend
 
+```
+npm install ola-class
+```
+
 ## Basic usage
 ```
 var MyClass = Class.extend({ // will be shown in logs as [Function]
