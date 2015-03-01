@@ -7,6 +7,8 @@ npm install ola-class
 
 ## Basic usage
 ```
+var Class = require('ola-class');
+
 var MyClass = Class.extend({ // will be shown in logs as [Function]
   init: function(){
     // constructor
